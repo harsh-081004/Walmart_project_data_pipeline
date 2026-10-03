@@ -93,7 +93,7 @@
                             s.country AS store_country,
                             s.created_timestamp AS store_created_timestamp,
                             s.updated_timestamp AS store_updated_timestamp,
-                            s.is_active AS st ore_is_active,
+                            s.is_active AS store_is_active,
                             s.processed_at AS store_processed_at
                     """,
         "alias": "s",
